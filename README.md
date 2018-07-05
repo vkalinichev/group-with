@@ -2,7 +2,6 @@
 
 [![npm][npm-img]][npm]
 [![Build Status][ci-img]][ci]
-[![npm][npm-dwnlds-img]][npm]
 [![license][lic-img]][lic]
 
 [npm-img]: https://img.shields.io/npm/v/group-with.svg
