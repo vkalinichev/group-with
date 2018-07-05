@@ -1,0 +1,15 @@
+{
+  "name": "group-with",
+  "description": "Split list into sets, grouped with custom comparator function",
+  "version": "1.0.0",
+  "author": "Vladimir Kalinichev <wrumly@gmail.com> (https://vkalinichev.com/)",
+  "repository": "https://github.com/vkalinichev/group-with.git",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^23.3.0",
+    "string-similarity": "^1.2.0"
+  }
+}
